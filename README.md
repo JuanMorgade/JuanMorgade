@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![gifs-de-programador-29](https://user-images.githubusercontent.com/106404694/216731138-4163511f-5805-4530-9245-80b732d239b1.gif)
+
+![JS-by-SoyHorizonte](https://user-images.githubusercontent.com/106404694/216731458-f7d5e6d2-b69c-4718-bb03-1415bf51ae9c.gif)
