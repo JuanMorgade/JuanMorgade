@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola Soy Juan Pablo Morgade - Programador Junior FullStack
 
 <!--
 **JuanMorgade/JuanMorgade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![gifs-de-programador-29](https://user-images.githubusercontent.com/106404694/216731138-4163511f-5805-4530-9245-80b732d239b1.gif)
