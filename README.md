@@ -1,11 +1,7 @@
 ### Hola Soy Juan Pablo Morgade - Programador Junior FullStack
 
-----------SOBRE MÍ-----------         
-Apasionado de la programación                                            
-Back End y el desarrollo web         
-He llevado a cabo varios         
-proyectos web y aplicaciones          
-de Android y de Windows.
+----------------------------------------------------------✨SOBRE MÍ✨-------------------------------------------------------------------         
+Apasionado de la programación Back End y el desarrollo web, He llevado a cabo varios proyectos web y aplicaciones de Android y de Windows.
 
 <!--
 **JuanMorgade/JuanMorgade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
