@@ -5,16 +5,12 @@ Apasionado de la programación Back End y el desarrollo web, He llevado a cabo v
 ![JS-by-SoyHorizonte](https://user-images.githubusercontent.com/106404694/216731458-f7d5e6d2-b69c-4718-bb03-1415bf51ae9c.gif)
 
 -------------------------------------------------------------⚡TECNOLOGIAS⚡------------------------------------------------------------------- 
-* C, C++, C#
-* EXL(VBA)
-* HTML
-* CSS / SAS
-* JavaScript
-* PHP
-* Boostrap / TailwindCSS
-* React.js
-* React Native
-* Legacy Ionic (Typescript)
+* C, C++, C#  * CSS / SAS      * Boostrap / TailwindCSS     * React Native
+* EXL(VBA)    * JavaScript     * React.js                   * Legacy Ionic (Typescript)
+* HTML        * PHP            * React Native
+
+
+
 -------------------------------------------------------------💬CONTACTO💬-------------------------------------------------------------------      
 📫 MAIL: jp.morgade@gmail.com 
 
