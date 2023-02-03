@@ -1,10 +1,10 @@
 ### Hola Soy Juan Pablo Morgade - Programador Junior FullStack
 
-----------SOBRE MÍ-----------         ---------IDIOMAS----------
+----------SOBRE MÍ-----------         
 Apasionado de la programación                                            
-Back End y el desarrollo web          * Español: Nativo 
+Back End y el desarrollo web         
 He llevado a cabo varios         
-proyectos web y aplicaciones          * Ingles: Intermedio
+proyectos web y aplicaciones          
 de Android y de Windows.
 
 <!--
