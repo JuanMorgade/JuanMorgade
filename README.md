@@ -15,6 +15,7 @@ Apasionado de la programación Back End y el desarrollo web, He llevado a cabo v
 -------------------------------------------------------------💬CONTACTO💬-------------------------------------------------------------------      
 📫 MAIL: jp.morgade@gmail.com 
 
+[Currículum Corporativo Minimalista Azul marino (1).pdf](https://github.com/JuanMorgade/JuanMorgade/files/10590472/Curriculum.Corporativo.Minimalista.Azul.marino.1.pdf)
 
 <!--
 **JuanMorgade/JuanMorgade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
