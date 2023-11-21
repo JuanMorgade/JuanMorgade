@@ -3,7 +3,8 @@
 -------------------------------------------------------------✨SOBRE MÍ✨-------------------------------------------------------------------         
 Apasionado de la programación Back End y el desarrollo web, He llevado a cabo varios proyectos web y aplicaciones de Android y de Windows.
 
-Curriculum: [CV Morgade Juan Pablo.pdf](https://github.com/JuanMorgade/JuanMorgade/files/10591016/CV.Morgade.Juan.Pablo.pdf)
+Curriculum: [Cv Morgade Juan Pablo.pdf](https://github.com/JuanMorgade/JuanMorgade/files/13426493/Cv.Morgade.Juan.Pablo.pdf)
+
 
 ![JS-by-SoyHorizonte](https://user-images.githubusercontent.com/106404694/216731458-f7d5e6d2-b69c-4718-bb03-1415bf51ae9c.gif)
 
